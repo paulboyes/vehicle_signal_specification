@@ -3,7 +3,7 @@ units:
   mm:
     label: millimeter
     description: Distance measured in millimeters
-    domain: distance
+    domain: distances
   cm:
     label: centimeter
     description: Distance measured in centimeters
